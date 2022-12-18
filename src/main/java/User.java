@@ -1,3 +1,8 @@
+import java.io.IOException;
+import java.util.logging.FileHandler;
+import java.util.logging.Handler;
+import java.util.logging.Logger;
+
 public class User {
 
 	private String ID;
@@ -5,18 +10,46 @@ public class User {
 	private String age;
 	private String email;
 	private String password;
+	private static Logger LOGGER = Logger.getLogger(User.class.getName());
+
+
 
 	public User() {
+		super();
+		Handler fh;
+		try {
+			fh = new FileHandler("User.log");
+			LOGGER.addHandler(fh);
+		} catch (SecurityException e) {
+			LOGGER.severe("Impossible to open FileHandler");
+		} catch (IOException e) {
+			LOGGER.severe("Impossible to open FileHandler");
+		}
 	}
 
 	public User(String iD, String name, String age, String email, String password) {
-
+		super();
 		ID = iD;
 		this.name = name;
 		this.age = age;
 		this.email = email;
 		this.password = password;
+		Handler fh;
+		try {
+			fh = new FileHandler("User.log");
+			LOGGER.addHandler(fh);
+		} catch (SecurityException e) {
+			LOGGER.severe("Impossible to open FileHandler");
+		} catch (IOException e) {
+			LOGGER.severe("Impossible to open FileHandler");
+		}
 	}
+
+
+
+
+
+
 
 	public String getID() {
 		return ID;

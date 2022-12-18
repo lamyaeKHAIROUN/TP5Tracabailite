@@ -1,7 +1,11 @@
 import exception.ProductAlreadyExisteException;
 import exception.ProductNotFoundException;
 
+import java.io.IOException;
 import java.util.Scanner;
+import java.util.logging.FileHandler;
+import java.util.logging.Handler;
+import java.util.logging.Logger;
 
 
 public class Main {
@@ -9,8 +13,26 @@ public class Main {
 	static User user = new User();
 	static Repository repository = new Repository();
 	static Scanner sc;
+	private static Logger LOGGER = Logger.getLogger(Main.class.getName());
+
 
 	public static void main(String[] args) {
+
+		Handler fh;
+		try {
+			fh = new FileHandler("Main.log");
+			LOGGER.addHandler(fh);
+		} catch (SecurityException e) {
+			LOGGER.severe("Impossible to open FileHandler");
+		} catch (IOException e) {
+			LOGGER.severe("Impossible to open FileHandler");
+		}
+		LOGGER.info("Démarrage de l'application...");
+
+
+
+
+
 
 		System.out.println("Bienvenue à notre simple application CLI!");
 		sc = new Scanner(System.in);
