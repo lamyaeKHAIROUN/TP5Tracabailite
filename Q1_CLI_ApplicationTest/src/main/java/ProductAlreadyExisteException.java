@@ -1,5 +1,3 @@
-package exception;
-
 public class ProductAlreadyExisteException extends Exception {
 
 	public ProductAlreadyExisteException() {

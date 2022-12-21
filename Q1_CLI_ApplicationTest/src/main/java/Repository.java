@@ -1,6 +1,3 @@
-import exception.ProductAlreadyExisteException;
-import exception.ProductNotFoundException;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -80,7 +77,7 @@ public class Repository {
 
 	@Override
 	public String toString() {
-		return "Repository : ID=" + ID + ", Produits=" + products ;
+		return "Repository : ID=" + ID + ", Produits=" + products;
 	}
 	private void initRepositoryWithData() {
 		Product p1 = new Product("0", "Lait", "1.0", "25/12/22");

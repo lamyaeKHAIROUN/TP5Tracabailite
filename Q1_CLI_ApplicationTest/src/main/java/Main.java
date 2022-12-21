@@ -1,6 +1,3 @@
-import exception.ProductAlreadyExisteException;
-import exception.ProductNotFoundException;
-
 import java.io.IOException;
 import java.util.Scanner;
 import java.util.logging.FileHandler;
@@ -13,21 +10,10 @@ public class Main {
 	static User user = new User();
 	static Repository repository = new Repository();
 	static Scanner sc;
-	private static Logger LOGGER = Logger.getLogger(Main.class.getName());
 
 
 	public static void main(String[] args) {
 
-		Handler fh;
-		try {
-			fh = new FileHandler("Main.log");
-			LOGGER.addHandler(fh);
-		} catch (SecurityException e) {
-			LOGGER.severe("Impossible to open FileHandler");
-		} catch (IOException e) {
-			LOGGER.severe("Impossible to open FileHandler");
-		}
-		LOGGER.info("Démarrage de l'application...");
 
 
 
