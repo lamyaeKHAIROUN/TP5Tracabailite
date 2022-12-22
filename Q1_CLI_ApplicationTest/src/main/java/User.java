@@ -76,7 +76,7 @@ public class User {
 
 	@Override
 	public String toString() {
-		return "User information: ID=" + ID + ", Name=" + name + ", Age=" + age + ", Email=" + email + ", Password=" + password;
+		return "Utilisateur: ID=" + ID + ", Nom=" + name + ", Age=" + age + ", Email=" + email + ", Mot de passe=" + password;
 
 	}
 

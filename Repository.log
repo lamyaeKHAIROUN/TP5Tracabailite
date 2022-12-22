@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-22T11:53:50.657098Z</date>
+  <millis>1671710030657</millis>
+  <nanos>98000</nanos>
+  <sequence>110</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>addNewProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;Produit: ID=12, Nom=Livre, Prix=10, Date d'expiration=30/12/2022</message>
+</record>
+<record>
+  <date>2022-12-22T11:53:50.664096300Z</date>
+  <millis>1671710030664</millis>
+  <nanos>96300</nanos>
+  <sequence>116</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;12</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:04.491960200Z</date>
+  <millis>1671710644491</millis>
+  <nanos>960200</nanos>
+  <sequence>142</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>addNewProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;Produit: ID=13, Nom=chocolat, Prix=1.5, Date d'expiration=10/03/2023</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:04.498963400Z</date>
+  <millis>1671710644498</millis>
+  <nanos>963400</nanos>
+  <sequence>148</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;13</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.309844100Z</date>
+  <millis>1671710695309</millis>
+  <nanos>844100</nanos>
+  <sequence>177</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>addNewProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;Produit: ID=14, Nom=Farine, Prix=15, Date d'expiration=17/05/2023</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.314844Z</date>
+  <millis>1671710695314</millis>
+  <nanos>844000</nanos>
+  <sequence>183</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;14</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.291280300Z</date>
+  <millis>1671712097291</millis>
+  <nanos>280300</nanos>
+  <sequence>215</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>addNewProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;Produit: ID=15, Nom=Fromage blanc , Prix=2, Date d'expiration=20/02/2023</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.300280100Z</date>
+  <millis>1671712097300</millis>
+  <nanos>280100</nanos>
+  <sequence>221</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;15</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.674838700Z</date>
+  <millis>1671712963674</millis>
+  <nanos>838700</nanos>
+  <sequence>256</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>updateProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;Produit: ID=1, Nom=Produit mis a jour, Prix=23, Date d'expiration=23/12/2023</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.680837400Z</date>
+  <millis>1671712963680</millis>
+  <nanos>837400</nanos>
+  <sequence>262</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>deleteProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;1</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.682838400Z</date>
+  <millis>1671712963682</millis>
+  <nanos>838400</nanos>
+  <sequence>265</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;1</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.691837600Z</date>
+  <millis>1671712963691</millis>
+  <nanos>837600</nanos>
+  <sequence>275</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>addNewProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;Produit: ID=1, Nom=Produit mis a jour, Prix=23, Date d'expiration=23/12/2023</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.697841500Z</date>
+  <millis>1671712963697</millis>
+  <nanos>841500</nanos>
+  <sequence>281</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=123;1</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-22T12:47:39.613024Z</date>
+  <millis>1671713259613</millis>
+  <nanos>24000</nanos>
+  <sequence>110</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>addNewProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=2, Name=meryam, Age=22, Email=meryam@gmail.com, Password=3214;Produit: ID=21, Nom=Miel, Prix=20, Date d'expiration=25/01/2023</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:39.622024800Z</date>
+  <millis>1671713259622</millis>
+  <nanos>24800</nanos>
+  <sequence>116</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=2, Name=meryam, Age=22, Email=meryam@gmail.com, Password=3214;21</message>
+</record>
+<record>
+  <date>2022-12-22T12:48:18.916624500Z</date>
+  <millis>1671713298916</millis>
+  <nanos>624500</nanos>
+  <sequence>148</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>addNewProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=2, Name=meryam, Age=22, Email=meryam@gmail.com, Password=3214;Produit: ID=22, Nom=Cafe, Prix=15, Date d'expiration=25/03/2023</message>
+</record>
+<record>
+  <date>2022-12-22T12:48:18.921616Z</date>
+  <millis>1671713298921</millis>
+  <nanos>616000</nanos>
+  <sequence>154</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=2, Name=meryam, Age=22, Email=meryam@gmail.com, Password=3214;22</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:20.730524200Z</date>
+  <millis>1671714740730</millis>
+  <nanos>524200</nanos>
+  <sequence>188</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>deleteProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=2, Name=meryam, Age=22, Email=meryam@gmail.com, Password=3214;12</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:20.735044300Z</date>
+  <millis>1671714740735</millis>
+  <nanos>44300</nanos>
+  <sequence>191</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=2, Name=meryam, Age=22, Email=meryam@gmail.com, Password=3214;12</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-22T16:31:39.521085Z</date>
+  <millis>1671726699521</millis>
+  <nanos>85000</nanos>
+  <sequence>109</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>diplayProducts</method>
+  <thread>1</thread>
+  <message>User information: ID=3, Name=awatef, Age=30, Email=awatef@gmail.com, Password=125;Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:40.229537300Z</date>
+  <millis>1671726700229</millis>
+  <nanos>537300</nanos>
+  <sequence>123</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>diplayProducts</method>
+  <thread>1</thread>
+  <message>User information: ID=3, Name=awatef, Age=30, Email=awatef@gmail.com, Password=125;Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:41.190017600Z</date>
+  <millis>1671726701190</millis>
+  <nanos>17600</nanos>
+  <sequence>137</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>diplayProducts</method>
+  <thread>1</thread>
+  <message>User information: ID=3, Name=awatef, Age=30, Email=awatef@gmail.com, Password=125;Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:42.103387800Z</date>
+  <millis>1671726702103</millis>
+  <nanos>387800</nanos>
+  <sequence>151</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>diplayProducts</method>
+  <thread>1</thread>
+  <message>User information: ID=3, Name=awatef, Age=30, Email=awatef@gmail.com, Password=125;Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:42.977462900Z</date>
+  <millis>1671726702977</millis>
+  <nanos>462900</nanos>
+  <sequence>165</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>diplayProducts</method>
+  <thread>1</thread>
+  <message>User information: ID=3, Name=awatef, Age=30, Email=awatef@gmail.com, Password=125;Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:43.924529900Z</date>
+  <millis>1671726703924</millis>
+  <nanos>529900</nanos>
+  <sequence>179</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>diplayProducts</method>
+  <thread>1</thread>
+  <message>User information: ID=3, Name=awatef, Age=30, Email=awatef@gmail.com, Password=125;Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:44.828355100Z</date>
+  <millis>1671726704828</millis>
+  <nanos>355100</nanos>
+  <sequence>193</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>diplayProducts</method>
+  <thread>1</thread>
+  <message>User information: ID=3, Name=awatef, Age=30, Email=awatef@gmail.com, Password=125;Pas de parametres donnés</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-22T16:34:50.449681800Z</date>
+  <millis>1671726890449</millis>
+  <nanos>681800</nanos>
+  <sequence>109</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=4, Name=amin, Age=25, Email=amin@gmail.com, Password=2587;2</message>
+</record>
+<record>
+  <date>2022-12-22T16:37:03.247826500Z</date>
+  <millis>1671727023247</millis>
+  <nanos>826500</nanos>
+  <sequence>128</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=4, Name=amin, Age=25, Email=amin@gmail.com, Password=2587;3</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:18.938950400Z</date>
+  <millis>1671727098938</millis>
+  <nanos>950400</nanos>
+  <sequence>151</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>updateProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=4, Name=amin, Age=25, Email=amin@gmail.com, Password=2587;Produit: ID=3, Nom=produit mis a jour 2, Prix=20, Date d'expiration=25/01/2023</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:18.959950600Z</date>
+  <millis>1671727098959</millis>
+  <nanos>950600</nanos>
+  <sequence>157</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>deleteProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=4, Name=amin, Age=25, Email=amin@gmail.com, Password=2587;3</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:18.966950400Z</date>
+  <millis>1671727098966</millis>
+  <nanos>950400</nanos>
+  <sequence>160</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=4, Name=amin, Age=25, Email=amin@gmail.com, Password=2587;3</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:19.002956600Z</date>
+  <millis>1671727099002</millis>
+  <nanos>956600</nanos>
+  <sequence>176</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>addNewProduct</method>
+  <thread>1</thread>
+  <message>User information: ID=4, Name=amin, Age=25, Email=amin@gmail.com, Password=2587;Produit: ID=3, Nom=produit mis a jour 2, Prix=20, Date d'expiration=25/01/2023</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:19.020958100Z</date>
+  <millis>1671727099020</millis>
+  <nanos>958100</nanos>
+  <sequence>182</sequence>
+  <logger>Repository</logger>
+  <level>INFO</level>
+  <class>Repository</class>
+  <method>fetchProductById</method>
+  <thread>1</thread>
+  <message>User information: ID=4, Name=amin, Age=25, Email=amin@gmail.com, Password=2587;3</message>
+</record>

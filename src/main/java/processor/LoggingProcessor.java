@@ -28,9 +28,7 @@ public class LoggingProcessor extends AbstractProcessor<CtExecutable> {
 				sb.append("Main.getUser().toString()");
 				sb.append("+ \";\" +");
 			}
-			if (params.size() == 0) {
-				sb.append("\"Pas de parametres donnés\"");
-			} else {
+			else {
 				boolean isBeforePenultimate = true;
 				for (int i = 0; i < params.size(); i++) {
 					CtParameter param = (CtParameter) params.get(i);

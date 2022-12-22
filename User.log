@@ -1,0 +1,3991 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-22T11:29:10.607836100Z</date>
+  <millis>1671708550607</millis>
+  <nanos>836100</nanos>
+  <sequence>1</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.695841Z</date>
+  <millis>1671708550695</millis>
+  <nanos>841000</nanos>
+  <sequence>4</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.722842700Z</date>
+  <millis>1671708550722</millis>
+  <nanos>842700</nanos>
+  <sequence>8</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.750843600Z</date>
+  <millis>1671708550750</millis>
+  <nanos>843600</nanos>
+  <sequence>11</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.805854900Z</date>
+  <millis>1671708550805</millis>
+  <nanos>854900</nanos>
+  <sequence>14</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.815850200Z</date>
+  <millis>1671708550815</millis>
+  <nanos>850200</nanos>
+  <sequence>18</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.826855400Z</date>
+  <millis>1671708550826</millis>
+  <nanos>855400</nanos>
+  <sequence>21</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.839852300Z</date>
+  <millis>1671708550839</millis>
+  <nanos>852300</nanos>
+  <sequence>24</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.861858700Z</date>
+  <millis>1671708550861</millis>
+  <nanos>858700</nanos>
+  <sequence>27</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.868854600Z</date>
+  <millis>1671708550868</millis>
+  <nanos>854600</nanos>
+  <sequence>31</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.879858500Z</date>
+  <millis>1671708550879</millis>
+  <nanos>858500</nanos>
+  <sequence>34</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.889857200Z</date>
+  <millis>1671708550889</millis>
+  <nanos>857200</nanos>
+  <sequence>37</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.897861200Z</date>
+  <millis>1671708550897</millis>
+  <nanos>861200</nanos>
+  <sequence>40</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.942866500Z</date>
+  <millis>1671708550942</millis>
+  <nanos>866500</nanos>
+  <sequence>43</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.951861900Z</date>
+  <millis>1671708550951</millis>
+  <nanos>861900</nanos>
+  <sequence>47</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.964864800Z</date>
+  <millis>1671708550964</millis>
+  <nanos>864800</nanos>
+  <sequence>50</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.976866800Z</date>
+  <millis>1671708550976</millis>
+  <nanos>866800</nanos>
+  <sequence>53</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:10.992865800Z</date>
+  <millis>1671708550992</millis>
+  <nanos>865800</nanos>
+  <sequence>56</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:11.004862Z</date>
+  <millis>1671708551004</millis>
+  <nanos>862000</nanos>
+  <sequence>59</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:11.026868700Z</date>
+  <millis>1671708551026</millis>
+  <nanos>868700</nanos>
+  <sequence>62</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:11.051867500Z</date>
+  <millis>1671708551051</millis>
+  <nanos>867500</nanos>
+  <sequence>66</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:11.061873400Z</date>
+  <millis>1671708551061</millis>
+  <nanos>873400</nanos>
+  <sequence>69</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:11.067878100Z</date>
+  <millis>1671708551067</millis>
+  <nanos>878100</nanos>
+  <sequence>72</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:11.074875200Z</date>
+  <millis>1671708551074</millis>
+  <nanos>875200</nanos>
+  <sequence>75</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:11.080877100Z</date>
+  <millis>1671708551080</millis>
+  <nanos>877100</nanos>
+  <sequence>78</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:11.087873600Z</date>
+  <millis>1671708551087</millis>
+  <nanos>873600</nanos>
+  <sequence>81</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:29:11.139873800Z</date>
+  <millis>1671708551139</millis>
+  <nanos>873800</nanos>
+  <sequence>84</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-22T11:51:30.029208700Z</date>
+  <millis>1671709890029</millis>
+  <nanos>208700</nanos>
+  <sequence>1</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.076215100Z</date>
+  <millis>1671709890076</millis>
+  <nanos>215100</nanos>
+  <sequence>4</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.085216900Z</date>
+  <millis>1671709890085</millis>
+  <nanos>216900</nanos>
+  <sequence>8</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.090218100Z</date>
+  <millis>1671709890090</millis>
+  <nanos>218100</nanos>
+  <sequence>11</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.098219Z</date>
+  <millis>1671709890098</millis>
+  <nanos>219000</nanos>
+  <sequence>14</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.104219400Z</date>
+  <millis>1671709890104</millis>
+  <nanos>219400</nanos>
+  <sequence>18</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.108219500Z</date>
+  <millis>1671709890108</millis>
+  <nanos>219500</nanos>
+  <sequence>21</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.111217700Z</date>
+  <millis>1671709890111</millis>
+  <nanos>217700</nanos>
+  <sequence>24</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.118219200Z</date>
+  <millis>1671709890118</millis>
+  <nanos>219200</nanos>
+  <sequence>27</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.123218700Z</date>
+  <millis>1671709890123</millis>
+  <nanos>218700</nanos>
+  <sequence>31</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.127219900Z</date>
+  <millis>1671709890127</millis>
+  <nanos>219900</nanos>
+  <sequence>34</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.130221800Z</date>
+  <millis>1671709890130</millis>
+  <nanos>221800</nanos>
+  <sequence>37</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.134221500Z</date>
+  <millis>1671709890134</millis>
+  <nanos>221500</nanos>
+  <sequence>40</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.142220900Z</date>
+  <millis>1671709890142</millis>
+  <nanos>220900</nanos>
+  <sequence>43</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.146221100Z</date>
+  <millis>1671709890146</millis>
+  <nanos>221100</nanos>
+  <sequence>47</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.149222400Z</date>
+  <millis>1671709890149</millis>
+  <nanos>222400</nanos>
+  <sequence>50</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.151222700Z</date>
+  <millis>1671709890151</millis>
+  <nanos>222700</nanos>
+  <sequence>53</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.155222700Z</date>
+  <millis>1671709890155</millis>
+  <nanos>222700</nanos>
+  <sequence>56</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.159223600Z</date>
+  <millis>1671709890159</millis>
+  <nanos>223600</nanos>
+  <sequence>59</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.167224800Z</date>
+  <millis>1671709890167</millis>
+  <nanos>224800</nanos>
+  <sequence>62</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.171223600Z</date>
+  <millis>1671709890171</millis>
+  <nanos>223600</nanos>
+  <sequence>66</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.175223300Z</date>
+  <millis>1671709890175</millis>
+  <nanos>223300</nanos>
+  <sequence>69</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.177224200Z</date>
+  <millis>1671709890177</millis>
+  <nanos>224200</nanos>
+  <sequence>72</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.180224800Z</date>
+  <millis>1671709890180</millis>
+  <nanos>224800</nanos>
+  <sequence>75</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.183223600Z</date>
+  <millis>1671709890183</millis>
+  <nanos>223600</nanos>
+  <sequence>78</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.187225400Z</date>
+  <millis>1671709890187</millis>
+  <nanos>225400</nanos>
+  <sequence>81</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:30.198227200Z</date>
+  <millis>1671709890198</millis>
+  <nanos>227200</nanos>
+  <sequence>84</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:52.805818200Z</date>
+  <millis>1671709912805</millis>
+  <nanos>818200</nanos>
+  <sequence>87</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:52.809822300Z</date>
+  <millis>1671709912809</millis>
+  <nanos>822300</nanos>
+  <sequence>88</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setID</method>
+  <thread>1</thread>
+  <message>User information: ID=null, Name=null, Age=null, Email=null, Password=null;1</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:52.812819900Z</date>
+  <millis>1671709912812</millis>
+  <nanos>819900</nanos>
+  <sequence>90</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:52.814821100Z</date>
+  <millis>1671709912814</millis>
+  <nanos>821100</nanos>
+  <sequence>91</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setName</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=null, Age=null, Email=null, Password=null;lamyae</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:52.816818100Z</date>
+  <millis>1671709912816</millis>
+  <nanos>818100</nanos>
+  <sequence>93</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:52.817819700Z</date>
+  <millis>1671709912817</millis>
+  <nanos>819700</nanos>
+  <sequence>94</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setAge</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=null, Email=null, Password=null;23</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:52.819818300Z</date>
+  <millis>1671709912819</millis>
+  <nanos>818300</nanos>
+  <sequence>96</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:52.820818300Z</date>
+  <millis>1671709912820</millis>
+  <nanos>818300</nanos>
+  <sequence>97</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setEmail</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=null, Password=null;lamyae@gmail.com</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:52.821819200Z</date>
+  <millis>1671709912821</millis>
+  <nanos>819200</nanos>
+  <sequence>99</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:52.822819900Z</date>
+  <millis>1671709912822</millis>
+  <nanos>819900</nanos>
+  <sequence>100</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setPassword</method>
+  <thread>1</thread>
+  <message>User information: ID=1, Name=lamyae, Age=23, Email=lamyae@gmail.com, Password=null;123</message>
+</record>
+<record>
+  <date>2022-12-22T11:51:52.823819700Z</date>
+  <millis>1671709912823</millis>
+  <nanos>819700</nanos>
+  <sequence>102</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:53:06.354650800Z</date>
+  <millis>1671709986354</millis>
+  <nanos>650800</nanos>
+  <sequence>105</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:53:50.653097100Z</date>
+  <millis>1671710030653</millis>
+  <nanos>97100</nanos>
+  <sequence>108</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:53:50.660097400Z</date>
+  <millis>1671710030660</millis>
+  <nanos>97400</nanos>
+  <sequence>112</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:53:50.663099100Z</date>
+  <millis>1671710030663</millis>
+  <nanos>99100</nanos>
+  <sequence>115</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:53:50.667099100Z</date>
+  <millis>1671710030667</millis>
+  <nanos>99100</nanos>
+  <sequence>118</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:53:50.670097700Z</date>
+  <millis>1671710030670</millis>
+  <nanos>97700</nanos>
+  <sequence>121</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:53:50.673097900Z</date>
+  <millis>1671710030673</millis>
+  <nanos>97900</nanos>
+  <sequence>124</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:53:50.677099700Z</date>
+  <millis>1671710030677</millis>
+  <nanos>99700</nanos>
+  <sequence>127</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:53:50.680098900Z</date>
+  <millis>1671710030680</millis>
+  <nanos>98900</nanos>
+  <sequence>130</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T11:53:50.688099Z</date>
+  <millis>1671710030688</millis>
+  <nanos>99000</nanos>
+  <sequence>134</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:03:17.936386800Z</date>
+  <millis>1671710597936</millis>
+  <nanos>386800</nanos>
+  <sequence>137</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:04.488966500Z</date>
+  <millis>1671710644488</millis>
+  <nanos>966500</nanos>
+  <sequence>140</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:04.493969300Z</date>
+  <millis>1671710644493</millis>
+  <nanos>969300</nanos>
+  <sequence>144</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:04.497963200Z</date>
+  <millis>1671710644497</millis>
+  <nanos>963200</nanos>
+  <sequence>147</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:04.501968200Z</date>
+  <millis>1671710644501</millis>
+  <nanos>968200</nanos>
+  <sequence>150</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:04.505963Z</date>
+  <millis>1671710644505</millis>
+  <nanos>963000</nanos>
+  <sequence>153</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:04.508965Z</date>
+  <millis>1671710644508</millis>
+  <nanos>965000</nanos>
+  <sequence>156</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:04.510963900Z</date>
+  <millis>1671710644510</millis>
+  <nanos>963900</nanos>
+  <sequence>159</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:04.512965200Z</date>
+  <millis>1671710644512</millis>
+  <nanos>965200</nanos>
+  <sequence>162</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:04.514965400Z</date>
+  <millis>1671710644514</millis>
+  <nanos>965400</nanos>
+  <sequence>165</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:04.532965900Z</date>
+  <millis>1671710644532</millis>
+  <nanos>965900</nanos>
+  <sequence>169</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:12.114124100Z</date>
+  <millis>1671710652114</millis>
+  <nanos>124100</nanos>
+  <sequence>172</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.307843600Z</date>
+  <millis>1671710695307</millis>
+  <nanos>843600</nanos>
+  <sequence>175</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.310844400Z</date>
+  <millis>1671710695310</millis>
+  <nanos>844400</nanos>
+  <sequence>179</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.313844100Z</date>
+  <millis>1671710695313</millis>
+  <nanos>844100</nanos>
+  <sequence>182</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.316845800Z</date>
+  <millis>1671710695316</millis>
+  <nanos>845800</nanos>
+  <sequence>185</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.320843700Z</date>
+  <millis>1671710695320</millis>
+  <nanos>843700</nanos>
+  <sequence>188</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.323844200Z</date>
+  <millis>1671710695323</millis>
+  <nanos>844200</nanos>
+  <sequence>191</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.326845500Z</date>
+  <millis>1671710695326</millis>
+  <nanos>845500</nanos>
+  <sequence>194</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.331843300Z</date>
+  <millis>1671710695331</millis>
+  <nanos>843300</nanos>
+  <sequence>197</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.333844800Z</date>
+  <millis>1671710695333</millis>
+  <nanos>844800</nanos>
+  <sequence>200</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.342846800Z</date>
+  <millis>1671710695342</millis>
+  <nanos>846800</nanos>
+  <sequence>203</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:04:55.358847200Z</date>
+  <millis>1671710695358</millis>
+  <nanos>847200</nanos>
+  <sequence>207</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:26:47.104524700Z</date>
+  <millis>1671712007104</millis>
+  <nanos>524700</nanos>
+  <sequence>210</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.287280Z</date>
+  <millis>1671712097287</millis>
+  <nanos>280000</nanos>
+  <sequence>213</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.293278900Z</date>
+  <millis>1671712097293</millis>
+  <nanos>278900</nanos>
+  <sequence>217</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.298280Z</date>
+  <millis>1671712097298</millis>
+  <nanos>280000</nanos>
+  <sequence>220</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.301280400Z</date>
+  <millis>1671712097301</millis>
+  <nanos>280400</nanos>
+  <sequence>223</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.306280200Z</date>
+  <millis>1671712097306</millis>
+  <nanos>280200</nanos>
+  <sequence>226</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.308284900Z</date>
+  <millis>1671712097308</millis>
+  <nanos>284900</nanos>
+  <sequence>229</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.309297300Z</date>
+  <millis>1671712097309</millis>
+  <nanos>297300</nanos>
+  <sequence>232</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.311283Z</date>
+  <millis>1671712097311</millis>
+  <nanos>283000</nanos>
+  <sequence>235</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.314597200Z</date>
+  <millis>1671712097314</millis>
+  <nanos>597200</nanos>
+  <sequence>238</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.315598600Z</date>
+  <millis>1671712097315</millis>
+  <nanos>598600</nanos>
+  <sequence>241</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.317601300Z</date>
+  <millis>1671712097317</millis>
+  <nanos>601300</nanos>
+  <sequence>244</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:28:17.322599100Z</date>
+  <millis>1671712097322</millis>
+  <nanos>599100</nanos>
+  <sequence>248</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:41:55.067175100Z</date>
+  <millis>1671712915067</millis>
+  <nanos>175100</nanos>
+  <sequence>251</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.669992100Z</date>
+  <millis>1671712963669</millis>
+  <nanos>992100</nanos>
+  <sequence>254</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.675839Z</date>
+  <millis>1671712963675</millis>
+  <nanos>839000</nanos>
+  <sequence>258</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.678835500Z</date>
+  <millis>1671712963678</millis>
+  <nanos>835500</nanos>
+  <sequence>261</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.681839300Z</date>
+  <millis>1671712963681</millis>
+  <nanos>839300</nanos>
+  <sequence>264</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.683839800Z</date>
+  <millis>1671712963683</millis>
+  <nanos>839800</nanos>
+  <sequence>267</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.687838300Z</date>
+  <millis>1671712963687</millis>
+  <nanos>838300</nanos>
+  <sequence>270</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.689838700Z</date>
+  <millis>1671712963689</millis>
+  <nanos>838700</nanos>
+  <sequence>273</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.693840700Z</date>
+  <millis>1671712963693</millis>
+  <nanos>840700</nanos>
+  <sequence>277</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.696841Z</date>
+  <millis>1671712963696</millis>
+  <nanos>841000</nanos>
+  <sequence>280</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.698842100Z</date>
+  <millis>1671712963698</millis>
+  <nanos>842100</nanos>
+  <sequence>283</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.700842100Z</date>
+  <millis>1671712963700</millis>
+  <nanos>842100</nanos>
+  <sequence>286</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.705837900Z</date>
+  <millis>1671712963705</millis>
+  <nanos>837900</nanos>
+  <sequence>289</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.707841300Z</date>
+  <millis>1671712963707</millis>
+  <nanos>841300</nanos>
+  <sequence>292</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.708841500Z</date>
+  <millis>1671712963708</millis>
+  <nanos>841500</nanos>
+  <sequence>295</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.710840600Z</date>
+  <millis>1671712963710</millis>
+  <nanos>840600</nanos>
+  <sequence>298</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.717841800Z</date>
+  <millis>1671712963717</millis>
+  <nanos>841800</nanos>
+  <sequence>301</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.722841700Z</date>
+  <millis>1671712963722</millis>
+  <nanos>841700</nanos>
+  <sequence>304</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:42:43.729841900Z</date>
+  <millis>1671712963729</millis>
+  <nanos>841900</nanos>
+  <sequence>308</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-22T12:43:35.047025500Z</date>
+  <millis>1671713015047</millis>
+  <nanos>25500</nanos>
+  <sequence>1</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:35.231041700Z</date>
+  <millis>1671713015231</millis>
+  <nanos>41700</nanos>
+  <sequence>4</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:35.248040700Z</date>
+  <millis>1671713015248</millis>
+  <nanos>40700</nanos>
+  <sequence>8</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:35.270045400Z</date>
+  <millis>1671713015270</millis>
+  <nanos>45400</nanos>
+  <sequence>11</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:35.322046900Z</date>
+  <millis>1671713015322</millis>
+  <nanos>46900</nanos>
+  <sequence>14</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.157632200Z</date>
+  <millis>1671713016157</millis>
+  <nanos>632200</nanos>
+  <sequence>18</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.163629800Z</date>
+  <millis>1671713016163</millis>
+  <nanos>629800</nanos>
+  <sequence>21</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.170631700Z</date>
+  <millis>1671713016170</millis>
+  <nanos>631700</nanos>
+  <sequence>24</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.228636800Z</date>
+  <millis>1671713016228</millis>
+  <nanos>636800</nanos>
+  <sequence>27</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.260640400Z</date>
+  <millis>1671713016260</millis>
+  <nanos>640400</nanos>
+  <sequence>31</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.282641500Z</date>
+  <millis>1671713016282</millis>
+  <nanos>641500</nanos>
+  <sequence>34</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.293646500Z</date>
+  <millis>1671713016293</millis>
+  <nanos>646500</nanos>
+  <sequence>37</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.300641200Z</date>
+  <millis>1671713016300</millis>
+  <nanos>641200</nanos>
+  <sequence>40</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.332642800Z</date>
+  <millis>1671713016332</millis>
+  <nanos>642800</nanos>
+  <sequence>43</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.356645600Z</date>
+  <millis>1671713016356</millis>
+  <nanos>645600</nanos>
+  <sequence>47</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.369649800Z</date>
+  <millis>1671713016369</millis>
+  <nanos>649800</nanos>
+  <sequence>50</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.377646300Z</date>
+  <millis>1671713016377</millis>
+  <nanos>646300</nanos>
+  <sequence>53</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.381648700Z</date>
+  <millis>1671713016381</millis>
+  <nanos>648700</nanos>
+  <sequence>56</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.384648700Z</date>
+  <millis>1671713016384</millis>
+  <nanos>648700</nanos>
+  <sequence>59</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.398648900Z</date>
+  <millis>1671713016398</millis>
+  <nanos>648900</nanos>
+  <sequence>62</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.406649800Z</date>
+  <millis>1671713016406</millis>
+  <nanos>649800</nanos>
+  <sequence>66</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.411650Z</date>
+  <millis>1671713016411</millis>
+  <nanos>650000</nanos>
+  <sequence>69</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.414649100Z</date>
+  <millis>1671713016414</millis>
+  <nanos>649100</nanos>
+  <sequence>72</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.417648700Z</date>
+  <millis>1671713016417</millis>
+  <nanos>648700</nanos>
+  <sequence>75</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.421649900Z</date>
+  <millis>1671713016421</millis>
+  <nanos>649900</nanos>
+  <sequence>78</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.423650300Z</date>
+  <millis>1671713016423</millis>
+  <nanos>650300</nanos>
+  <sequence>81</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:43:36.434651400Z</date>
+  <millis>1671713016434</millis>
+  <nanos>651400</nanos>
+  <sequence>84</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:44:04.941472400Z</date>
+  <millis>1671713044941</millis>
+  <nanos>472400</nanos>
+  <sequence>87</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:44:04.948470100Z</date>
+  <millis>1671713044948</millis>
+  <nanos>470100</nanos>
+  <sequence>88</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setID</method>
+  <thread>1</thread>
+  <message>User information: ID=null, Name=null, Age=null, Email=null, Password=null;2</message>
+</record>
+<record>
+  <date>2022-12-22T12:44:04.950489300Z</date>
+  <millis>1671713044950</millis>
+  <nanos>489300</nanos>
+  <sequence>90</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:44:04.950489300Z</date>
+  <millis>1671713044950</millis>
+  <nanos>489300</nanos>
+  <sequence>91</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setName</method>
+  <thread>1</thread>
+  <message>User information: ID=2, Name=null, Age=null, Email=null, Password=null;meryam</message>
+</record>
+<record>
+  <date>2022-12-22T12:44:04.951490Z</date>
+  <millis>1671713044951</millis>
+  <nanos>490000</nanos>
+  <sequence>93</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:44:04.951490Z</date>
+  <millis>1671713044951</millis>
+  <nanos>490000</nanos>
+  <sequence>94</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setAge</method>
+  <thread>1</thread>
+  <message>User information: ID=2, Name=meryam, Age=null, Email=null, Password=null;22</message>
+</record>
+<record>
+  <date>2022-12-22T12:44:04.952476300Z</date>
+  <millis>1671713044952</millis>
+  <nanos>476300</nanos>
+  <sequence>96</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:44:04.952476300Z</date>
+  <millis>1671713044952</millis>
+  <nanos>476300</nanos>
+  <sequence>97</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setEmail</method>
+  <thread>1</thread>
+  <message>User information: ID=2, Name=meryam, Age=22, Email=null, Password=null;meryam@gmail.com</message>
+</record>
+<record>
+  <date>2022-12-22T12:44:04.953487500Z</date>
+  <millis>1671713044953</millis>
+  <nanos>487500</nanos>
+  <sequence>99</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:44:04.954476100Z</date>
+  <millis>1671713044954</millis>
+  <nanos>476100</nanos>
+  <sequence>100</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setPassword</method>
+  <thread>1</thread>
+  <message>User information: ID=2, Name=meryam, Age=22, Email=meryam@gmail.com, Password=null;3214</message>
+</record>
+<record>
+  <date>2022-12-22T12:44:04.955476200Z</date>
+  <millis>1671713044955</millis>
+  <nanos>476200</nanos>
+  <sequence>102</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:00.773860Z</date>
+  <millis>1671713220773</millis>
+  <nanos>860000</nanos>
+  <sequence>105</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:39.611023900Z</date>
+  <millis>1671713259611</millis>
+  <nanos>23900</nanos>
+  <sequence>108</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:39.615025500Z</date>
+  <millis>1671713259615</millis>
+  <nanos>25500</nanos>
+  <sequence>112</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:39.621028400Z</date>
+  <millis>1671713259621</millis>
+  <nanos>28400</nanos>
+  <sequence>115</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:39.626026100Z</date>
+  <millis>1671713259626</millis>
+  <nanos>26100</nanos>
+  <sequence>118</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:39.629025500Z</date>
+  <millis>1671713259629</millis>
+  <nanos>25500</nanos>
+  <sequence>121</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:39.638025600Z</date>
+  <millis>1671713259638</millis>
+  <nanos>25600</nanos>
+  <sequence>124</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:39.647026500Z</date>
+  <millis>1671713259647</millis>
+  <nanos>26500</nanos>
+  <sequence>127</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:39.649027400Z</date>
+  <millis>1671713259649</millis>
+  <nanos>27400</nanos>
+  <sequence>130</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:39.661028300Z</date>
+  <millis>1671713259661</millis>
+  <nanos>28300</nanos>
+  <sequence>134</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:48.131176800Z</date>
+  <millis>1671713268131</millis>
+  <nanos>176800</nanos>
+  <sequence>137</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:48.135175800Z</date>
+  <millis>1671713268135</millis>
+  <nanos>175800</nanos>
+  <sequence>140</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:47:58.952686Z</date>
+  <millis>1671713278952</millis>
+  <nanos>686000</nanos>
+  <sequence>143</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:48:18.912634400Z</date>
+  <millis>1671713298912</millis>
+  <nanos>634400</nanos>
+  <sequence>146</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:48:18.918615400Z</date>
+  <millis>1671713298918</millis>
+  <nanos>615400</nanos>
+  <sequence>150</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:48:18.920616Z</date>
+  <millis>1671713298920</millis>
+  <nanos>616000</nanos>
+  <sequence>153</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:48:18.922616200Z</date>
+  <millis>1671713298922</millis>
+  <nanos>616200</nanos>
+  <sequence>156</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:48:18.924617400Z</date>
+  <millis>1671713298924</millis>
+  <nanos>617400</nanos>
+  <sequence>159</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:48:18.926614300Z</date>
+  <millis>1671713298926</millis>
+  <nanos>614300</nanos>
+  <sequence>162</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:48:18.927614100Z</date>
+  <millis>1671713298927</millis>
+  <nanos>614100</nanos>
+  <sequence>165</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:48:18.928614100Z</date>
+  <millis>1671713298928</millis>
+  <nanos>614100</nanos>
+  <sequence>168</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:48:18.930616200Z</date>
+  <millis>1671713298930</millis>
+  <nanos>616200</nanos>
+  <sequence>171</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T12:48:18.938616300Z</date>
+  <millis>1671713298938</millis>
+  <nanos>616300</nanos>
+  <sequence>175</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:02.639898600Z</date>
+  <millis>1671714722639</millis>
+  <nanos>898600</nanos>
+  <sequence>178</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:02.648677Z</date>
+  <millis>1671714722648</millis>
+  <nanos>677000</nanos>
+  <sequence>181</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:12.580691600Z</date>
+  <millis>1671714732580</millis>
+  <nanos>691600</nanos>
+  <sequence>184</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:20.729804200Z</date>
+  <millis>1671714740729</millis>
+  <nanos>804200</nanos>
+  <sequence>187</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:20.734043200Z</date>
+  <millis>1671714740734</millis>
+  <nanos>43200</nanos>
+  <sequence>190</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:20.738043500Z</date>
+  <millis>1671714740738</millis>
+  <nanos>43500</nanos>
+  <sequence>193</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:20.742780500Z</date>
+  <millis>1671714740742</millis>
+  <nanos>780500</nanos>
+  <sequence>196</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:20.744780300Z</date>
+  <millis>1671714740744</millis>
+  <nanos>780300</nanos>
+  <sequence>199</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:20.746781200Z</date>
+  <millis>1671714740746</millis>
+  <nanos>781200</nanos>
+  <sequence>202</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:20.747779900Z</date>
+  <millis>1671714740747</millis>
+  <nanos>779900</nanos>
+  <sequence>205</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:20.748781700Z</date>
+  <millis>1671714740748</millis>
+  <nanos>781700</nanos>
+  <sequence>208</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:20.750785100Z</date>
+  <millis>1671714740750</millis>
+  <nanos>785100</nanos>
+  <sequence>211</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:12:20.769782300Z</date>
+  <millis>1671714740769</millis>
+  <nanos>782300</nanos>
+  <sequence>214</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-22T13:13:01.082109700Z</date>
+  <millis>1671714781082</millis>
+  <nanos>109700</nanos>
+  <sequence>1</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.112116300Z</date>
+  <millis>1671714781112</millis>
+  <nanos>116300</nanos>
+  <sequence>4</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.120113Z</date>
+  <millis>1671714781120</millis>
+  <nanos>113000</nanos>
+  <sequence>8</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.125114700Z</date>
+  <millis>1671714781125</millis>
+  <nanos>114700</nanos>
+  <sequence>11</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.133116100Z</date>
+  <millis>1671714781133</millis>
+  <nanos>116100</nanos>
+  <sequence>14</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.138114800Z</date>
+  <millis>1671714781138</millis>
+  <nanos>114800</nanos>
+  <sequence>18</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.144116400Z</date>
+  <millis>1671714781144</millis>
+  <nanos>116400</nanos>
+  <sequence>21</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.147115900Z</date>
+  <millis>1671714781147</millis>
+  <nanos>115900</nanos>
+  <sequence>24</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.154116100Z</date>
+  <millis>1671714781154</millis>
+  <nanos>116100</nanos>
+  <sequence>27</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.160117900Z</date>
+  <millis>1671714781160</millis>
+  <nanos>117900</nanos>
+  <sequence>31</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.164117800Z</date>
+  <millis>1671714781164</millis>
+  <nanos>117800</nanos>
+  <sequence>34</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.167120Z</date>
+  <millis>1671714781167</millis>
+  <nanos>120000</nanos>
+  <sequence>37</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.171119600Z</date>
+  <millis>1671714781171</millis>
+  <nanos>119600</nanos>
+  <sequence>40</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.179120200Z</date>
+  <millis>1671714781179</millis>
+  <nanos>120200</nanos>
+  <sequence>43</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.183120200Z</date>
+  <millis>1671714781183</millis>
+  <nanos>120200</nanos>
+  <sequence>47</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.186120100Z</date>
+  <millis>1671714781186</millis>
+  <nanos>120100</nanos>
+  <sequence>50</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.188121500Z</date>
+  <millis>1671714781188</millis>
+  <nanos>121500</nanos>
+  <sequence>53</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.192121400Z</date>
+  <millis>1671714781192</millis>
+  <nanos>121400</nanos>
+  <sequence>56</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.197121300Z</date>
+  <millis>1671714781197</millis>
+  <nanos>121300</nanos>
+  <sequence>59</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.207123400Z</date>
+  <millis>1671714781207</millis>
+  <nanos>123400</nanos>
+  <sequence>62</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.213121500Z</date>
+  <millis>1671714781213</millis>
+  <nanos>121500</nanos>
+  <sequence>66</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.217122800Z</date>
+  <millis>1671714781217</millis>
+  <nanos>122800</nanos>
+  <sequence>69</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.220123800Z</date>
+  <millis>1671714781220</millis>
+  <nanos>123800</nanos>
+  <sequence>72</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.224123300Z</date>
+  <millis>1671714781224</millis>
+  <nanos>123300</nanos>
+  <sequence>75</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.227123900Z</date>
+  <millis>1671714781227</millis>
+  <nanos>123900</nanos>
+  <sequence>78</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.230125Z</date>
+  <millis>1671714781230</millis>
+  <nanos>125000</nanos>
+  <sequence>81</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T13:13:01.244124800Z</date>
+  <millis>1671714781244</millis>
+  <nanos>124800</nanos>
+  <sequence>84</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:30.723650700Z</date>
+  <millis>1671726690723</millis>
+  <nanos>650700</nanos>
+  <sequence>87</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:30.729716300Z</date>
+  <millis>1671726690729</millis>
+  <nanos>716300</nanos>
+  <sequence>88</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setID</method>
+  <thread>1</thread>
+  <message>User information: ID=null, Name=null, Age=null, Email=null, Password=null;3</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:30.731700700Z</date>
+  <millis>1671726690731</millis>
+  <nanos>700700</nanos>
+  <sequence>90</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:30.732701300Z</date>
+  <millis>1671726690732</millis>
+  <nanos>701300</nanos>
+  <sequence>91</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setName</method>
+  <thread>1</thread>
+  <message>User information: ID=3, Name=null, Age=null, Email=null, Password=null;awatef</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:30.733702400Z</date>
+  <millis>1671726690733</millis>
+  <nanos>702400</nanos>
+  <sequence>93</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:30.734702700Z</date>
+  <millis>1671726690734</millis>
+  <nanos>702700</nanos>
+  <sequence>94</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setAge</method>
+  <thread>1</thread>
+  <message>User information: ID=3, Name=awatef, Age=null, Email=null, Password=null;30</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:30.735701500Z</date>
+  <millis>1671726690735</millis>
+  <nanos>701500</nanos>
+  <sequence>96</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:30.736703300Z</date>
+  <millis>1671726690736</millis>
+  <nanos>703300</nanos>
+  <sequence>97</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setEmail</method>
+  <thread>1</thread>
+  <message>User information: ID=3, Name=awatef, Age=30, Email=null, Password=null;awatef@gmail.com</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:30.738702500Z</date>
+  <millis>1671726690738</millis>
+  <nanos>702500</nanos>
+  <sequence>99</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:30.738702500Z</date>
+  <millis>1671726690738</millis>
+  <nanos>702500</nanos>
+  <sequence>100</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setPassword</method>
+  <thread>1</thread>
+  <message>User information: ID=3, Name=awatef, Age=30, Email=awatef@gmail.com, Password=null;125</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:30.740703700Z</date>
+  <millis>1671726690740</millis>
+  <nanos>703700</nanos>
+  <sequence>102</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:39.512084500Z</date>
+  <millis>1671726699512</millis>
+  <nanos>84500</nanos>
+  <sequence>105</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:39.520079500Z</date>
+  <millis>1671726699520</millis>
+  <nanos>79500</nanos>
+  <sequence>108</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:39.537087300Z</date>
+  <millis>1671726699537</millis>
+  <nanos>87300</nanos>
+  <sequence>116</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:40.224539100Z</date>
+  <millis>1671726700224</millis>
+  <nanos>539100</nanos>
+  <sequence>119</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:40.228539Z</date>
+  <millis>1671726700228</millis>
+  <nanos>539000</nanos>
+  <sequence>122</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:40.237538500Z</date>
+  <millis>1671726700237</millis>
+  <nanos>538500</nanos>
+  <sequence>130</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:41.188012500Z</date>
+  <millis>1671726701188</millis>
+  <nanos>12500</nanos>
+  <sequence>133</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:41.190017600Z</date>
+  <millis>1671726701190</millis>
+  <nanos>17600</nanos>
+  <sequence>136</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:41.200010600Z</date>
+  <millis>1671726701200</millis>
+  <nanos>10600</nanos>
+  <sequence>144</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:42.098390700Z</date>
+  <millis>1671726702098</millis>
+  <nanos>390700</nanos>
+  <sequence>147</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:42.102766Z</date>
+  <millis>1671726702102</millis>
+  <nanos>766000</nanos>
+  <sequence>150</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:42.113390400Z</date>
+  <millis>1671726702113</millis>
+  <nanos>390400</nanos>
+  <sequence>158</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:42.975455Z</date>
+  <millis>1671726702975</millis>
+  <nanos>455000</nanos>
+  <sequence>161</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:42.976456Z</date>
+  <millis>1671726702976</millis>
+  <nanos>456000</nanos>
+  <sequence>164</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:42.988457500Z</date>
+  <millis>1671726702988</millis>
+  <nanos>457500</nanos>
+  <sequence>172</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:43.920528700Z</date>
+  <millis>1671726703920</millis>
+  <nanos>528700</nanos>
+  <sequence>175</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:43.923534800Z</date>
+  <millis>1671726703923</millis>
+  <nanos>534800</nanos>
+  <sequence>178</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:43.933530700Z</date>
+  <millis>1671726703933</millis>
+  <nanos>530700</nanos>
+  <sequence>186</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:44.824353Z</date>
+  <millis>1671726704824</millis>
+  <nanos>353000</nanos>
+  <sequence>189</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:44.827359100Z</date>
+  <millis>1671726704827</millis>
+  <nanos>359100</nanos>
+  <sequence>192</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:31:44.835356900Z</date>
+  <millis>1671726704835</millis>
+  <nanos>356900</nanos>
+  <sequence>200</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-22T16:33:46.266082200Z</date>
+  <millis>1671726826266</millis>
+  <nanos>82200</nanos>
+  <sequence>1</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.298086100Z</date>
+  <millis>1671726826298</millis>
+  <nanos>86100</nanos>
+  <sequence>4</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.306087700Z</date>
+  <millis>1671726826306</millis>
+  <nanos>87700</nanos>
+  <sequence>8</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.311091700Z</date>
+  <millis>1671726826311</millis>
+  <nanos>91700</nanos>
+  <sequence>11</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.318089Z</date>
+  <millis>1671726826318</millis>
+  <nanos>89000</nanos>
+  <sequence>14</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.324090600Z</date>
+  <millis>1671726826324</millis>
+  <nanos>90600</nanos>
+  <sequence>18</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.328089400Z</date>
+  <millis>1671726826328</millis>
+  <nanos>89400</nanos>
+  <sequence>21</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.332090900Z</date>
+  <millis>1671726826332</millis>
+  <nanos>90900</nanos>
+  <sequence>24</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.340088600Z</date>
+  <millis>1671726826340</millis>
+  <nanos>88600</nanos>
+  <sequence>27</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.345090300Z</date>
+  <millis>1671726826345</millis>
+  <nanos>90300</nanos>
+  <sequence>31</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.349090900Z</date>
+  <millis>1671726826349</millis>
+  <nanos>90900</nanos>
+  <sequence>34</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.352093200Z</date>
+  <millis>1671726826352</millis>
+  <nanos>93200</nanos>
+  <sequence>37</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.356094700Z</date>
+  <millis>1671726826356</millis>
+  <nanos>94700</nanos>
+  <sequence>40</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.364092300Z</date>
+  <millis>1671726826364</millis>
+  <nanos>92300</nanos>
+  <sequence>43</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.368094200Z</date>
+  <millis>1671726826368</millis>
+  <nanos>94200</nanos>
+  <sequence>47</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.371094400Z</date>
+  <millis>1671726826371</millis>
+  <nanos>94400</nanos>
+  <sequence>50</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.374092900Z</date>
+  <millis>1671726826374</millis>
+  <nanos>92900</nanos>
+  <sequence>53</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.378095200Z</date>
+  <millis>1671726826378</millis>
+  <nanos>95200</nanos>
+  <sequence>56</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.381095Z</date>
+  <millis>1671726826381</millis>
+  <nanos>95000</nanos>
+  <sequence>59</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.388095100Z</date>
+  <millis>1671726826388</millis>
+  <nanos>95100</nanos>
+  <sequence>62</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.394093100Z</date>
+  <millis>1671726826394</millis>
+  <nanos>93100</nanos>
+  <sequence>66</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.398094500Z</date>
+  <millis>1671726826398</millis>
+  <nanos>94500</nanos>
+  <sequence>69</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.401096700Z</date>
+  <millis>1671726826401</millis>
+  <nanos>96700</nanos>
+  <sequence>72</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.405095900Z</date>
+  <millis>1671726826405</millis>
+  <nanos>95900</nanos>
+  <sequence>75</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.409094200Z</date>
+  <millis>1671726826409</millis>
+  <nanos>94200</nanos>
+  <sequence>78</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.413097800Z</date>
+  <millis>1671726826413</millis>
+  <nanos>97800</nanos>
+  <sequence>81</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:33:46.424097200Z</date>
+  <millis>1671726826424</millis>
+  <nanos>97200</nanos>
+  <sequence>84</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:41.374595800Z</date>
+  <millis>1671726881374</millis>
+  <nanos>595800</nanos>
+  <sequence>87</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:41.375598200Z</date>
+  <millis>1671726881375</millis>
+  <nanos>598200</nanos>
+  <sequence>88</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setID</method>
+  <thread>1</thread>
+  <message>User information: ID=null, Name=null, Age=null, Email=null, Password=null;4</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:41.377597300Z</date>
+  <millis>1671726881377</millis>
+  <nanos>597300</nanos>
+  <sequence>90</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:41.379599600Z</date>
+  <millis>1671726881379</millis>
+  <nanos>599600</nanos>
+  <sequence>91</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setName</method>
+  <thread>1</thread>
+  <message>User information: ID=4, Name=null, Age=null, Email=null, Password=null;amin</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:41.381597500Z</date>
+  <millis>1671726881381</millis>
+  <nanos>597500</nanos>
+  <sequence>93</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:41.381597500Z</date>
+  <millis>1671726881381</millis>
+  <nanos>597500</nanos>
+  <sequence>94</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setAge</method>
+  <thread>1</thread>
+  <message>User information: ID=4, Name=amin, Age=null, Email=null, Password=null;25</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:41.383598100Z</date>
+  <millis>1671726881383</millis>
+  <nanos>598100</nanos>
+  <sequence>96</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:41.384599300Z</date>
+  <millis>1671726881384</millis>
+  <nanos>599300</nanos>
+  <sequence>97</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setEmail</method>
+  <thread>1</thread>
+  <message>User information: ID=4, Name=amin, Age=25, Email=null, Password=null;amin@gmail.com</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:41.385598600Z</date>
+  <millis>1671726881385</millis>
+  <nanos>598600</nanos>
+  <sequence>99</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:41.386600200Z</date>
+  <millis>1671726881386</millis>
+  <nanos>600200</nanos>
+  <sequence>100</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>setPassword</method>
+  <thread>1</thread>
+  <message>User information: ID=4, Name=amin, Age=25, Email=amin@gmail.com, Password=null;2587</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:41.389599400Z</date>
+  <millis>1671726881389</millis>
+  <nanos>599400</nanos>
+  <sequence>102</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:48.892739300Z</date>
+  <millis>1671726888892</millis>
+  <nanos>739300</nanos>
+  <sequence>105</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:50.447675300Z</date>
+  <millis>1671726890447</millis>
+  <nanos>675300</nanos>
+  <sequence>108</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:50.451676100Z</date>
+  <millis>1671726890451</millis>
+  <nanos>676100</nanos>
+  <sequence>111</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:50.455674800Z</date>
+  <millis>1671726890455</millis>
+  <nanos>674800</nanos>
+  <sequence>114</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:50.457678200Z</date>
+  <millis>1671726890457</millis>
+  <nanos>678200</nanos>
+  <sequence>117</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:34:50.461678300Z</date>
+  <millis>1671726890461</millis>
+  <nanos>678300</nanos>
+  <sequence>121</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:37:01.460379200Z</date>
+  <millis>1671727021460</millis>
+  <nanos>379200</nanos>
+  <sequence>124</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:37:03.245825Z</date>
+  <millis>1671727023245</millis>
+  <nanos>825000</nanos>
+  <sequence>127</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:37:03.249822300Z</date>
+  <millis>1671727023249</millis>
+  <nanos>822300</nanos>
+  <sequence>130</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:37:03.254821300Z</date>
+  <millis>1671727023254</millis>
+  <nanos>821300</nanos>
+  <sequence>133</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:37:03.257820500Z</date>
+  <millis>1671727023257</millis>
+  <nanos>820500</nanos>
+  <sequence>136</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:37:03.259822100Z</date>
+  <millis>1671727023259</millis>
+  <nanos>822100</nanos>
+  <sequence>139</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:37:03.263822300Z</date>
+  <millis>1671727023263</millis>
+  <nanos>822300</nanos>
+  <sequence>143</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:37:17.358256700Z</date>
+  <millis>1671727037358</millis>
+  <nanos>256700</nanos>
+  <sequence>146</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:18.933948600Z</date>
+  <millis>1671727098933</millis>
+  <nanos>948600</nanos>
+  <sequence>149</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:18.943948600Z</date>
+  <millis>1671727098943</millis>
+  <nanos>948600</nanos>
+  <sequence>153</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:18.948950700Z</date>
+  <millis>1671727098948</millis>
+  <nanos>950700</nanos>
+  <sequence>156</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:18.963950700Z</date>
+  <millis>1671727098963</millis>
+  <nanos>950700</nanos>
+  <sequence>159</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:18.966950400Z</date>
+  <millis>1671727098966</millis>
+  <nanos>950400</nanos>
+  <sequence>162</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:18.984954800Z</date>
+  <millis>1671727098984</millis>
+  <nanos>954800</nanos>
+  <sequence>165</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:18.989951800Z</date>
+  <millis>1671727098989</millis>
+  <nanos>951800</nanos>
+  <sequence>168</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:18.998957900Z</date>
+  <millis>1671727098998</millis>
+  <nanos>957900</nanos>
+  <sequence>171</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:19.000960300Z</date>
+  <millis>1671727099000</millis>
+  <nanos>960300</nanos>
+  <sequence>174</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:19.003956200Z</date>
+  <millis>1671727099003</millis>
+  <nanos>956200</nanos>
+  <sequence>178</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:19.012959Z</date>
+  <millis>1671727099012</millis>
+  <nanos>959000</nanos>
+  <sequence>181</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:19.024956300Z</date>
+  <millis>1671727099024</millis>
+  <nanos>956300</nanos>
+  <sequence>184</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:19.027957300Z</date>
+  <millis>1671727099027</millis>
+  <nanos>957300</nanos>
+  <sequence>187</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:19.029958Z</date>
+  <millis>1671727099029</millis>
+  <nanos>958000</nanos>
+  <sequence>190</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:19.030958400Z</date>
+  <millis>1671727099030</millis>
+  <nanos>958400</nanos>
+  <sequence>193</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
+<record>
+  <date>2022-12-22T16:38:19.035956700Z</date>
+  <millis>1671727099035</millis>
+  <nanos>956700</nanos>
+  <sequence>197</sequence>
+  <logger>User</logger>
+  <level>INFO</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Pas de parametres donnés</message>
+</record>
